@@ -1,5 +1,5 @@
 # QGLearn
-QGLearn is a group of students brought together through the internships program held by QWorld. Led by Vesselin Gueorguiev, our product strives to accomplish the goals of QIntern's Project 9: gamifying quantum subjects. Our work is constrained by factors such as time (one month), distance (involvement of various continents), and the limitations of replicating quantum technologies on classical computers. Additionally, our skills range from classical programming to AI engineering. For this project, most of our interns needed to pick up game design and an understanding of related quantum topics.
+QGLearn is a group of students brought together through the internships program held by QWorld. Led by Vesselin Gueorguiev, our product strives to accomplish the goals of QIntern's Project 9: gamifying quantum subjects. Our work is constrained by factors such as time (one month), distance (involvement of various continents), and the limitations of replicating quantum technologies on classical computers. Additionally, our skills range from classical programming to AI engineering. Most of our team members needed to pick up game design and an understanding of related quantum topics.
 <br>
 
 ## Abstract
@@ -22,4 +22,4 @@ This project aims to accomplish an escape-room style game to gamify quantum conc
 ## References
 We adapted the methods of various literature and existing work to compile the skills necessary for the creation of this project.
 <br>
-Deeteeee. <b> “Godot University.” </b> YouTube, Sept. 2024, www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo. Accessed 30 July 2025.
+Deeteeee. <b> “Godot University.” [www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo] </b> YouTube, Sept. 2024. Accessed 30 July 2025.
