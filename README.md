@@ -1,8 +1,9 @@
 # QGLearn
+QGLearn is a group of students brought together through the internships program held by QWorld. Led by Vesselin Gueorguiev, our product strives to accomplish the goals of QIntern's Project 9: gamifying quantum subjects. Our work is constrained by factors such as time (one month), distance (involvement of various continents), and the limitations of replicating quantum technologies on classical computers. Additionally, our skills range from classical programming to AI engineering. For this project, most of our interns needed to pick up game design and an understanding of related quantum topics.
 <br>
 
 ## Abstract
-This project aims to accomplish an escape-room style game to gamify quantum concepts through Godot. More specifically, the game focuses on the Deutsch Algorithm, aspiring to help quantum learners visualize and interact with qubits, gates, and oracles. In the future, we hope to proceed to gamify more complex algorithms such as QFT, Shor's, Grover's, and potentially look into additional quantum subjects like cryptography. Our work is a product of our participation in QIntern's 2025 program, led by our mentor Vesselin Gueorguiev (Project 9).
+This project aims to accomplish an escape-room style game to gamify quantum concepts through Godot. More specifically, the game focuses on the Deutsch Algorithm, aspiring to help quantum learners visualize and interact with qubits, gates, and oracles. In the future, we hope to proceed to gamify more complex algorithms such as QFT, Shor's, Grover's, and potentially look into additional quantum subjects like cryptography.
 <br>
 
 ## Project Goals
@@ -12,7 +13,7 @@ This project aims to accomplish an escape-room style game to gamify quantum conc
 <br>
 ☐ Implement the Deutsch Algorithm concepts and circuit in a method that will be easy to comprehend
 <br>
-☐ Publish a working prototype with Godot
+☐ Publish a working prototype of the game mechanics with Godot
 <br>
 ☐ Target complex topics like quantum algorithms in hopes of inspiring quantum researchers to advance current technologies
 <br>
