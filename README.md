@@ -22,4 +22,4 @@ This project aims to accomplish an escape-room style game to gamify quantum conc
 ## References
 We adapted the methods of various literature and existing work to compile the skills necessary for the creation of this project.
 <br>
-Deeteeee. “[Godot University](www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo).” YouTube, Sept. 2024. Accessed 30 July 2025.
+Deeteeee. “[Godot University](https://www.youtube.com/playlist?list=PLrT2fbyJrAIctd7zNUsdPakIllX2lhrzo).” *YouTube*, Sept. 2024. Accessed 30 July 2025.
