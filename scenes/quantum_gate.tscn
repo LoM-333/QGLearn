@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://v4054445nla4"]
+
+[ext_resource type="Script" uid="uid://myt4qrlmwetf" path="res://quantum_gate.gd" id="1_hd0nq"]
+
+[node name="QuantumGate" type="Node2D"]
+script = ExtResource("1_hd0nq")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
