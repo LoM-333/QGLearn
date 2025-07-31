@@ -1,8 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://bko6ku2xa0efi"]
-
-[ext_resource type="Script" uid="uid://ch3sm5xbgkd7c" path="res://qubit.gd" id="1_xsr6x"]
-
-[node name="Qubit" type="Node2D"]
-script = ExtResource("1_xsr6x")
-
-[node name="Sprite2D" type="Sprite2D" parent="."]

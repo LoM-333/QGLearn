@@ -11,6 +11,6 @@ config_version=5
 [application]
 
 config/name="QGLearn"
-run/main_scene="uid://vn8dduggbyll"
+run/main_scene="uid://cw2ymhwf86kvt"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://icon.svg"
