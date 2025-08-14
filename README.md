@@ -6,10 +6,13 @@ QGLearn is a group of students brought together through the internships program 
 This project aims to accomplish an escape-room style game to gamify quantum concepts through Godot. More specifically, the game focuses on the Deutsch Algorithm, aspiring to help quantum learners visualize and interact with qubits, gates, and oracles. In the future, we hope to proceed to gamify more complex algorithms such as QFT, Shor's, Grover's, and potentially look into additional quantum subjects like cryptography.
 <br>
 
+## Godot Project File
+To access the prototype, please download our game file: [A Qubit Away From Home](https://drive.google.com/drive/folders/1Zv92u4JJeMr4_ALdbu-i5JQyfhgOB1Sx?usp=drive_link).
+
 ## Project Goals
 ☐ Visualize qubit states, gate interactions, and quantum algorithms through an escape-room style game
 <br>
-☐ Provide players with an understanding of quantum cicuit building and qubit transformations as a result of environmental factors
+☐ Provide players with an understanding of quantum circuit building and qubit transformations as a result of environmental factors
 <br>
 ☐ Implement the Deutsch Algorithm concepts and circuit in a method that will be easy to comprehend
 <br>
