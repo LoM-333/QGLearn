@@ -7,7 +7,7 @@ This project aims to accomplish an escape-room style game to gamify quantum conc
 <br>
 
 ## Godot Project File
-To access the prototype, please download our game file: [A Qubit Away From Home](https://drive.google.com/drive/folders/1Zv92u4JJeMr4_ALdbu-i5JQyfhgOB1Sx?usp=drive_link).
+To access the prototype, please download our game file: [A Qubit Away From Home](https://drive.google.com/drive/folders/1lzcvADaV2BSvwlJhNvmfW3ZJDnx9ZY-e?usp=sharing) which can be run with the Godot Game Engine.
 
 ## Project Goals
 ☐ Visualize qubit states, gate interactions, and quantum algorithms through an escape-room style game
